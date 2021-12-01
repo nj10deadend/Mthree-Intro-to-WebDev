@@ -1,0 +1,8 @@
+article {
+    position: relative;
+    display: flex;
+}
+
+.images {
+    max-width: 50px;
+}
