@@ -1,13 +1,7 @@
-article {
-    position: relative;
-    display: flex;
+.test-p {
+    color: red;
 }
 
-/* .images {
-    max-width: 50%;
-    width: 200px;
-    height: auto;
-} */
 nav {
     border-top: thin #5b7d87 solid;
     border-bottom: thin #5b7d87 solid;
@@ -20,8 +14,4 @@ nav .btn {
 }
 nav .btn:hover {
     font-weight: bold;
-}
-
-.test-p {
-    color: red;
 }
