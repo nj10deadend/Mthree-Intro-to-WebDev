@@ -135,8 +135,6 @@ console.log("FIND A FAVORITE NUMBER");
 
 
 
-
-
 // CHALLENGE: WHILE LOOPS
 // ======================
 // Try solving the five tasks above with a while loop in place of a for loop.

@@ -83,7 +83,7 @@ for (let i = 6; i >= 0; i--) {
 // ============
 // You're given two variables with numeric values:
 
-var limit = 26; // We stop looping when we reach this number.
+var limit = 8; // We stop looping when we reach this number.
 var sum = 0;    // We add even numbers to this variable.
 
 // Write a for loop that loops from 0 to limit.
@@ -132,8 +132,6 @@ var kaisFavoriteNumber = 44;    // Kai's favorite number
 // Try adding a third, or forth, or fifth favorite number!
 console.log("FIND A FAVORITE NUMBER");
 // Write your code here:
-
-
 
 
 

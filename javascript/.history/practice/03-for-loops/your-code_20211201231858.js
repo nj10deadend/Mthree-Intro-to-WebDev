@@ -50,7 +50,7 @@ for (let i = 2; i <= 12; i++) {
         console.log(i)
     }
 
-    else continue;
+    // else continue;
 
 }
 
@@ -73,17 +73,13 @@ for (let i = 2; i <= 12; i++) {
 console.log("COUNT BACKWARD FROM SIX");
 // Write your code here:
 
-for (let i = 6; i >= 0; i--) {
-    console.log(i);
-}
-
 
 
 // 4. SUM EVENS
 // ============
 // You're given two variables with numeric values:
 
-var limit = 26; // We stop looping when we reach this number.
+var limit = 10; // We stop looping when we reach this number.
 var sum = 0;    // We add even numbers to this variable.
 
 // Write a for loop that loops from 0 to limit.
@@ -95,26 +91,6 @@ var sum = 0;    // We add even numbers to this variable.
 // What happens if you set limit to a negative number?
 console.log("SUM EVENS");
 // Write your code here:
-
-for (let i = 0; i <= limit; i++) {
-
-    // if (limit < 0) {
-    //     sum = 0;
-    // }
-
-    if (i % 2 === 0) {
-        sum = sum + i;
-    }
-
-    else if (i % 2 !== 0) {
-        continue;
-    }
-
-    console.log(sum);
-
-   
-
-}
 
 console.log("limit = %s, sum = %s", limit, sum);
 
@@ -132,8 +108,6 @@ var kaisFavoriteNumber = 44;    // Kai's favorite number
 // Try adding a third, or forth, or fifth favorite number!
 console.log("FIND A FAVORITE NUMBER");
 // Write your code here:
-
-
 
 
 
